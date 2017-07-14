@@ -17,3 +17,5 @@ npm install
 ```
 npm run start-dev
 ```
+
+4. In a browser go to [http://localhost:3000](http://localhost:3000)
